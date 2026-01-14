@@ -1,0 +1,59 @@
+{
+  "version": "1.1.11",
+  "storeUrl": "ms-windows-store://pdp/?productid=9PH0772K0990",
+  "changelog": [
+    {
+      "version": "1.1.11",
+      "date": "2025-01-14",
+      "changes": [
+        "Fixed MPV audio engine for Microsoft Store version",
+        "MPV now works correctly in APPX sandbox",
+        "Automatic MPV extraction to user data folder"
+      ]
+    },
+    {
+      "version": "1.1.10",
+      "date": "2025-01-14",
+      "changes": [
+        "Fixed MPV detection for Microsoft Store installations",
+        "Improved WindowsApps path handling"
+      ]
+    },
+    {
+      "version": "1.1.9",
+      "date": "2025-01-13",
+      "changes": [
+        "Improved library scanning performance with batch processing",
+        "Fixed artist images not updating without restart",
+        "Added lazy loading for faster album/artist display",
+        "SQLite optimizations for large libraries",
+        "MPV bundled in app package"
+      ]
+    },
+    {
+      "version": "1.1.8",
+      "date": "2025-01-11",
+      "changes": [
+        "Playlist export/import functionality",
+        "Performance improvements",
+        "Bug fixes"
+      ]
+    },
+    {
+      "version": "1.1.7",
+      "date": "2025-01-04",
+      "changes": [
+        "Version bump"
+      ]
+    },
+    {
+      "version": "1.1.6",
+      "date": "2025-01-04",
+      "changes": [
+        "Gapless playback support",
+        "Crossfade between tracks",
+        "Major feature update"
+      ]
+    }
+  ]
+}
