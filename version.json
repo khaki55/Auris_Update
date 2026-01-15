@@ -1,7 +1,19 @@
 {
-  "version": "1.1.11",
+  "version": "1.1.12",
   "storeUrl": "ms-windows-store://pdp/?productid=9PH0772K0990",
   "changelog": [
+    {
+      "version": "1.1.12",
+      "date": "2026-01-15",
+      "changes": [
+        "New Parametric EQ with adjustable frequency, gain, Q factor",
+        "Filter types: Peaking, Low Shelf, High Shelf, Low Pass, High Pass",
+        "Parametric EQ presets save/load",
+        "AutoEQ now works with Parametric EQ mode",
+        "Fixed EQ disable toggle for Parametric mode",
+        "Improved AutoEQ URL encoding for special characters"
+      ]
+    },
     {
       "version": "1.1.11",
       "date": "2025-01-14",
