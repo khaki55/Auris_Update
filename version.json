@@ -1,22 +1,26 @@
 {
-  "version": "1.1.12",
+  "version": "1.1.14",
   "storeUrl": "ms-windows-store://pdp/?productid=9PH0772K0990",
   "changelog": [
     {
-      "version": "1.1.12",
-      "date": "2026-01-15",
+      "version": "1.1.14",
+      "date": "2025-01-18",
       "changes": [
-        "New Parametric EQ with adjustable frequency, gain, Q factor",
-        "Filter types: Peaking, Low Shelf, High Shelf, Low Pass, High Pass",
-        "Parametric EQ presets save/load",
-        "AutoEQ now works with Parametric EQ mode",
-        "Fixed EQ disable toggle for Parametric mode",
-        "Improved AutoEQ URL encoding for special characters"
+        "Bug fixes and stability improvements"
+      ]
+    },
+    {
+      "version": "1.1.13",
+      "date": "2025-01-15",
+      "changes": [
+        "Improved casting to external devices",
+        "Enhanced playback synchronization",
+        "Bug fixes and stability improvements"
       ]
     },
     {
       "version": "1.1.11",
-      "date": "2026-01-14",
+      "date": "2025-01-14",
       "changes": [
         "Fixed MPV audio engine for Microsoft Store version",
         "MPV now works correctly in APPX sandbox",
@@ -25,7 +29,7 @@
     },
     {
       "version": "1.1.10",
-      "date": "2026-01-14",
+      "date": "2025-01-14",
       "changes": [
         "Fixed MPV detection for Microsoft Store installations",
         "Improved WindowsApps path handling"
@@ -33,7 +37,7 @@
     },
     {
       "version": "1.1.9",
-      "date": "2026-01-13",
+      "date": "2025-01-13",
       "changes": [
         "Improved library scanning performance with batch processing",
         "Fixed artist images not updating without restart",
@@ -44,7 +48,7 @@
     },
     {
       "version": "1.1.8",
-      "date": "2026-01-11",
+      "date": "2025-01-11",
       "changes": [
         "Playlist export/import functionality",
         "Performance improvements",
@@ -53,14 +57,14 @@
     },
     {
       "version": "1.1.7",
-      "date": "2026-01-04",
+      "date": "2025-01-04",
       "changes": [
         "Version bump"
       ]
     },
     {
       "version": "1.1.6",
-      "date": "2026-01-04",
+      "date": "2025-01-04",
       "changes": [
         "Gapless playback support",
         "Crossfade between tracks",
