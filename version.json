@@ -1,17 +1,43 @@
 {
-  "version": "1.1.14",
+  "version": "1.1.17",
   "storeUrl": "ms-windows-store://pdp/?productid=9PH0772K0990",
   "changelog": [
     {
+      "version": "1.1.17",
+      "date": "2026-01-24",
+      "changes": [
+        "Chromecast stability improvements",
+        "Bug fixes and performance optimizations"
+      ]
+    },
+    {
+      "version": "1.1.16",
+      "date": "2026-01-24",
+      "changes": [
+        "Fixed playlist import/export functionality",
+        "Bug fixes and stability improvements"
+      ]
+    },
+    {
+      "version": "1.1.15",
+      "date": "2026-01-21",
+      "changes": [
+        "New ABX Testing tool for blind audio comparison",
+        "Statistical analysis with p-value calculation",
+        "Test history with persistent storage",
+        "UI improvements and bug fixes"
+      ]
+    },
+    {
       "version": "1.1.14",
-      "date": "2025-01-18",
+      "date": "2026-01-18",
       "changes": [
         "Bug fixes and stability improvements"
       ]
     },
     {
       "version": "1.1.13",
-      "date": "2025-01-15",
+      "date": "2026-01-15",
       "changes": [
         "Improved casting to external devices",
         "Enhanced playback synchronization",
@@ -20,7 +46,7 @@
     },
     {
       "version": "1.1.11",
-      "date": "2025-01-14",
+      "date": "2026-01-14",
       "changes": [
         "Fixed MPV audio engine for Microsoft Store version",
         "MPV now works correctly in APPX sandbox",
@@ -29,7 +55,7 @@
     },
     {
       "version": "1.1.10",
-      "date": "2025-01-14",
+      "date": "2026-01-14",
       "changes": [
         "Fixed MPV detection for Microsoft Store installations",
         "Improved WindowsApps path handling"
@@ -37,7 +63,7 @@
     },
     {
       "version": "1.1.9",
-      "date": "2025-01-13",
+      "date": "2026-01-13",
       "changes": [
         "Improved library scanning performance with batch processing",
         "Fixed artist images not updating without restart",
@@ -48,7 +74,7 @@
     },
     {
       "version": "1.1.8",
-      "date": "2025-01-11",
+      "date": "2026-01-11",
       "changes": [
         "Playlist export/import functionality",
         "Performance improvements",
@@ -57,14 +83,14 @@
     },
     {
       "version": "1.1.7",
-      "date": "2025-01-04",
+      "date": "2026-01-04",
       "changes": [
         "Version bump"
       ]
     },
     {
       "version": "1.1.6",
-      "date": "2025-01-04",
+      "date": "2026-01-04",
       "changes": [
         "Gapless playback support",
         "Crossfade between tracks",
